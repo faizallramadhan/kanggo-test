@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>9254d432-153a-4de6-96a9-6973d67f25b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/article/div/div[2]/div/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.vc_btn3.vc_btn3-shape-square.btn.btn-flat.btn-lg.btn-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7e982dd-7837-4fcb-bf6e-05a834633f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc_btn3 vc_btn3-shape-square btn btn-flat btn-lg btn-secondary</value>
+      <webElementGuid>7f88fe68-5c0a-4c65-b0fb-311343e4e267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kanggo.id/contact/</value>
+      <webElementGuid>70293cac-0271-436e-8036-386f74875ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>993139c8-4706-4c70-b734-cc7a65ed9897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-182 page type-page status-publish hentry&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;vc_row wpb_row m-b-n-xl m-t-xl vc_custom_1614942444914 section section-default section-no-borders vc_row-has-fill vc_row-no-padding porto-inner-container&quot;]/div[@class=&quot;porto-wrap-container container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3 vc_column_container col-md-3&quot;]/div[@class=&quot;wpb_wrapper vc_column-inner&quot;]/div[@class=&quot;vc_btn3-container  m-t-sm vc_btn3-center&quot;]/a[@class=&quot;vc_btn3 vc_btn3-shape-square btn btn-flat btn-lg btn-secondary&quot;]</value>
+      <webElementGuid>f6cdbfc3-80a1-42ff-b8c9-c5fab55aa203</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/article/div/div[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>36e06145-55f1-4dc6-bebd-c07a7d61ea16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>c24f0059-75cd-4507-a4fd-ee903d038871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mari membangun masa depan bersama KANGGO!'])[1]/following::a[1]</value>
+      <webElementGuid>e19ec6c4-df0a-46e0-b953-40b08dc55e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download aplikasi mitra KANGGO'])[1]/following::a[1]</value>
+      <webElementGuid>46f3c877-5901-4527-aa22-7fa843199f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Hours'])[1]/preceding::a[1]</value>
+      <webElementGuid>d773c336-5774-41e8-891d-575b4794c01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon-Sun'])[1]/preceding::a[1]</value>
+      <webElementGuid>8883027e-43cd-4aa7-9daa-da73acefea2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>a5c08fdf-5317-4084-9032-b18ab16a64ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kanggo.id/contact/')]</value>
+      <webElementGuid>049cd375-c740-411b-a0f5-71285025de1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>3613fa41-26be-4a46-977f-b75500c59793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kanggo.id/contact/' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>de64b880-452a-4d4c-b4f7-01be86095cd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

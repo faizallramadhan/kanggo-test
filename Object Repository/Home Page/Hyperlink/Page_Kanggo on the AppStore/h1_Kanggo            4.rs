@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Kanggo            4</name>
+   <tag></tag>
+   <elementGuidId>07b04b7f-245c-47a6-a4d1-c294fc4fac4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.product-header__title.app-header__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b3ba1ad6-f97e-4e5c-88f7-19abf0dac672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-header__title app-header__title</value>
+      <webElementGuid>225c8fe1-dfc4-4dfb-889b-951d52281800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Kanggo
+            4+
+        </value>
+      <webElementGuid>6afe2b2f-e170-453e-a07b-1bf196822e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ember-application has-js globalnav-scrim no-touch&quot;]/div[@class=&quot;ember-view&quot;]/main[@class=&quot;selfclear is-apps-theme&quot;]/div[@class=&quot;animation-wrapper is-visible&quot;]/section[@class=&quot;l-content-width section section--hero product-hero&quot;]/div[@class=&quot;l-row&quot;]/div[@class=&quot;l-column small-7 medium-8 large-9 small-valign-top&quot;]/header[@class=&quot;product-header app-header product-header--padded-start&quot;]/h1[@class=&quot;product-header__title app-header__title&quot;]</value>
+      <webElementGuid>5597bfdb-7419-4331-858c-8781a9218601</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/following::h1[1]</value>
+      <webElementGuid>b9c4e1c2-fe9b-4826-a274-820c3c07ede7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Store'])[1]/following::h1[1]</value>
+      <webElementGuid>e49f5f29-31a4-45d3-a93d-fbf7d84c5f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kanggo']/parent::*</value>
+      <webElementGuid>d75fe8da-f393-4dfe-8d08-0f1f2d1d0ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>bb656133-9f9b-48c2-b79d-4f04a53a4b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+          Kanggo
+            4+
+        ' or . = '
+          Kanggo
+            4+
+        ')]</value>
+      <webElementGuid>dd92e7b2-7c96-420e-8b0f-8e6780c46143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

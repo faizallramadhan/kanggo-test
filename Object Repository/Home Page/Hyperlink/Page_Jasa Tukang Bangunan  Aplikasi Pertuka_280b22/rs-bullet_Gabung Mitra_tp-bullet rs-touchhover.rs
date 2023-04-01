@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rs-bullet_Gabung Mitra_tp-bullet rs-touchhover</name>
+   <tag></tag>
+   <elementGuidId>6399a059-7ecd-44e1-ad85-dbad26deb606</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>rs-bullet.tp-bullet.rs-touchhover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rs-bullet</value>
+      <webElementGuid>86574fbc-d8d3-41bb-90f4-a19aa817a753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>rs-2</value>
+      <webElementGuid>c9d291b4-5530-43c0-8c09-9b4d0f219cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tp-bullet rs-touchhover</value>
+      <webElementGuid>a7c5e498-6b59-4854-9461-0e7962fa2141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rev_slider_2_1&quot;)/rs-bullets[@class=&quot;tp-bullets hesperiden vertical nav-pos-hor-right nav-pos-ver-center nav-dir-vertical rs-touchhover&quot;]/rs-bullet[@class=&quot;tp-bullet rs-touchhover&quot;]</value>
+      <webElementGuid>6340e3c4-e523-4425-8a68-168eb0993267</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//rs-module[@id='rev_slider_2_1']/rs-bullets/rs-bullet</value>
+      <webElementGuid>6cc26f06-c228-4ea3-be56-95e30d812983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//rs-bullet</value>
+      <webElementGuid>56a1b840-d887-46f5-aa3c-abe6b427cec9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

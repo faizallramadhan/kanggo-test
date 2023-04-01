@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Layanan</name>
+   <tag></tag>
+   <elementGuidId>a4f0aaf7-cff1-4f16-a4c5-b70713709904</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung Mitra'])[2]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.page-title.b-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>65e31587-5687-4890-87d7-b12e3fb8fb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title b-none</value>
+      <webElementGuid>e2945b5f-4227-46a0-b234-201ee4605ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan</value>
+      <webElementGuid>40fb2257-8b0a-447b-a8b5-9d747b56a996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform js no-touch csstransforms3d csstransitions webkit chrome win js wf-opensans-n2-active wf-opensans-n3-active wf-opensans-n4-active wf-opensans-n7-active wf-opensans-n8-active wf-opensans-n6-active wf-shadowsintolight-n2-active wf-shadowsintolight-n3-active wf-shadowsintolight-n4-active wf-shadowsintolight-n7-active wf-shadowsintolight-n8-active wf-shadowsintolight-n6-active wf-playfairdisplay-n7-active wf-playfairdisplay-n2-active wf-playfairdisplay-n3-active wf-playfairdisplay-n4-active wf-playfairdisplay-n6-active wf-playfairdisplay-n8-active wf-active&quot;]/body[@class=&quot;page-template-default page page-id-1959 page-parent wp-embed-responsive full blog-1 dark theme-porto woocommerce-js login-popup wpb-js-composer js-comp-ver-6.6.0 vc_responsive&quot;]/div[@class=&quot;page-wrapper&quot;]/section[@class=&quot;page-top page-header-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center justify-content-end&quot;]/div[@class=&quot;col-lg-6&quot;]/h1[@class=&quot;page-title b-none&quot;]</value>
+      <webElementGuid>a3d4451a-dafe-484f-a6d3-61480282cafb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung Mitra'])[2]/following::h1[1]</value>
+      <webElementGuid>ff7c85b6-1666-4af8-91f5-047d3c2ab95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[2]/following::h1[1]</value>
+      <webElementGuid>8196dca5-da95-4400-ada6-97b572d779e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::h1[1]</value>
+      <webElementGuid>cbcd6452-5e6a-4366-b49b-0a0a04811d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan'])[4]/preceding::h1[1]</value>
+      <webElementGuid>921516c3-1978-41a8-b28a-183d28c300cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>44d5b602-c9ad-4287-ae89-65b592aa689d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Layanan' or . = 'Layanan')]</value>
+      <webElementGuid>67bcc9de-fb3b-4516-8d23-f6e7de055579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
